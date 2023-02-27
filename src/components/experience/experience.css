@@ -1,0 +1,17 @@
+.experience__container {
+    display: grid;
+    grid-template-columns: 1fr;
+    border-top: 5rem;
+}
+
+.experience__container > div{
+    background: var(--color-bg-variant);
+    padding-bottom: 4rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+
+}
+
+body{
+    background-color: #0a192f;
+}
